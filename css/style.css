@@ -21,9 +21,8 @@ header{
 }
 
 .container-grey{
-    margin: 0px auto;
     background-color: lightgray;
-    padding-top: 20px;
+    padding: 20px;
 }
 
 .container-white{
@@ -39,7 +38,6 @@ header{
     background-color: dodgerblue;
     border-radius: 5px;
     padding: 5px;
-    margin-left: 10px;
 }
 
 #add-section{
@@ -51,6 +49,66 @@ header{
 }
 
 hr{
-    margin: 20px 0;
+    margin: 15px 0;
+    background-color: lightgray;
 }
 
+.padding-section{
+    padding-top: 30px;
+}
+
+.padding{
+    padding: 5px;
+}
+
+.circle{
+    margin-top: 10px;
+    display: inline-block;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
+
+.green{
+    border: 1px solid green;
+    color: green;
+    line-height: 20px;
+}
+
+.red{
+    border: 1px solid red;
+    color:red;
+    line-height: 17px;
+}
+
+.banner{
+    color: white;
+    border-radius: 25px;
+    padding: 7px;
+    font-size: 80%;
+}
+
+.editorial{
+    background-color: dodgerblue;
+}
+
+.q1-goals{
+    background-color: darkslateblue;
+}
+
+.recluting{
+    background-color: mediumseagreen;
+}
+
+.mobile{
+    background-color: orange;
+}
+
+.website{
+    background-color: orchid;
+}
+
+.sales{
+    background-color: yellowgreen;
+}
