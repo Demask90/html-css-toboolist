@@ -29,10 +29,13 @@ header{
     width: 80%;
     background-color: white;
     margin: 2px auto;
-    padding: 20px;
+    padding: 20px 50px;
     border-radius: 5px;
 }
 
+#padding-add{
+    padding-left: 20px;
+}
 
 #add-task{
     color: white;
@@ -50,7 +53,7 @@ header{
 }
 
 .padding-section{
-    padding-top: 30px;
+    padding: 20px;
 }
 
 .padding{
