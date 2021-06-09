@@ -46,7 +46,6 @@ header{
 
 #add-section{
     color:grey;
-    background-color: white;
     border: 1px solid grey;
     border-radius: 5px;
     padding: 5px;
@@ -57,11 +56,10 @@ header{
 }
 
 .padding{
-    padding: 5px;
+    padding: 10px;
 }
 
 .circle{
-    margin-top: 10px;
     display: inline-block;
     border-radius: 50%;
     width: 20px;
